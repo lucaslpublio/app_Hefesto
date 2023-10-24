@@ -1,0 +1,34 @@
+Software License Agreement
+
+1. Definições
+   1.1 "Software" refere-se ao código-fonte e/ou código objeto fornecido por Lucas Lima Publio.
+   1.2 "Usuário" refere-se a qualquer pessoa ou entidade que obtenha uma cópia do Software.
+
+2. Concessão de Licença
+   2.1 Lucas Lima Publio concede ao Usuário uma licença não exclusiva e não transferível para usar o Software apenas na forma em que é fornecido.
+   2.2 O Usuário não tem permissão para modificar, adaptar, traduzir, descompilar, realizar engenharia reversa, desmontar ou tentar derivar o código-fonte do Software.
+
+3. Restrições
+   O Usuário não tem permissão para:
+   3.1 Distribuir, sublicenciar ou tornar o Software disponível para terceiros.
+   3.2 Remover ou modificar avisos de direitos autorais ou de propriedade contidos no Software.
+   3.3 Usar o Software para fins ilícitos ou prejudiciais.
+
+4. Rescisão
+   4.1 A licença é rescindida automaticamente se o Usuário não cumprir os termos desta licença.
+   4.2 Após a rescisão, o Usuário deve destruir todas as cópias do Software em sua posse.
+
+5. Garantia
+   5.1 O Software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita.
+
+6. Limitação de Responsabilidade
+   6.1 Lucas Lima Publio não será responsável por quaisquer danos diretos, indiretos, especiais, acidentais ou consequentes resultantes do uso ou impossibilidade de uso do Software.
+
+7. Lei Aplicável
+   7.1 Este acordo será regido e interpretado de acordo com as leis do Brasil/MG.
+
+8. Aceitação dos Termos
+   8.1 Ao usar o Software, o Usuário concorda em cumprir os termos deste acordo.
+
+Lucas Lima Publio
+[01/01/2020]
