@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:hefesto/telas/Cadastro_prestador.dart';
+import 'package:hefesto/telas/HomeScreen.dart';
 import '/tema/Theme.dart';
+import 'package:hefesto/telas/Cadastro_cliente.dart';
 
 
 class LoginScreen extends StatelessWidget {
@@ -51,7 +54,10 @@ class LoginScreen extends StatelessWidget {
               // Botão "Entrar"
               ElevatedButton(
                 onPressed: () {
-                  // Adicione aqui a lógica de autenticação ou ação desejada
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => HomeScreen()),
+                  );
                 },
                 style: ElevatedButton.styleFrom(
                   backgroundColor: Colors.blue, // Cor de fundo do botão
@@ -89,7 +95,10 @@ class LoginScreen extends StatelessWidget {
                 children: <Widget>[
                   TextButton(
                     onPressed: () {
-                      // Navegar para a tela de registro do cliente
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => Cadastro_Cliente()),
+                      );
                     },
                     child: Text(
                       'Registrar-se como cliente',
@@ -98,7 +107,10 @@ class LoginScreen extends StatelessWidget {
                   ),
                   TextButton(
                     onPressed: () {
-                      // Navegar para a tela de registro do prestador
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => Cadastro_Prestador()),
+                      );
                     },
                     child: Text(
                       'Registrar-se como prestador',
