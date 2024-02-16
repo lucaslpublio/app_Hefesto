@@ -1,4 +1,4 @@
-import '/telas/settings_app.dart';
+import '/telas/Login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -18,10 +18,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
       ),
-      home: settings_app(
-      ),
+      home: LoginScreen(),
     );
   }
 }
